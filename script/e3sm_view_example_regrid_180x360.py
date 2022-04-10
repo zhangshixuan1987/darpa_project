@@ -82,7 +82,7 @@ def main():
     varName = 'U'
     varDesc = 'Zonal wind'
     varUnit = 'm/s'
-    itime   = 0
+    itime   = 1455
     ilev    = 70
 
     minval  = -12.0
@@ -106,18 +106,18 @@ def main():
     for i in range(len(expname)):
         print ('working on ' + expname[i])
         ds = xr.open_dataset(filname[i])
-        lat = ds.lat[::-1]
+        lat = ds.lat[:]
         lon = ds.lon[:]
         lev = ds.lev[:]
 
         if i == 4: 
             varName = 'Nudge_' + varName 
-            tmp = ds.variables[varName][itime,ilev,::-1,:]
+            tmp = ds.variables[varName][itime,ilev,:,:]
             varUnit = varUnit + '/day'
             varDesc = varDesc +  ' tend'
             tmp = tmp * 86400.0
         else:
-            tmp = ds.variables[varName][itime,ilev,::-1,:]
+            tmp = ds.variables[varName][itime,ilev,:,:]
         
         var = Ngl.add_cyclic(tmp[:,:])  #-- add cyclic points
         

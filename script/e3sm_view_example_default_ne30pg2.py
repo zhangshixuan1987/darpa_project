@@ -82,7 +82,7 @@ def main():
     varName = 'U'
     varDesc = 'Zonal wind'
     varUnit = 'm/s'
-    itime   = 0
+    itime   = 1455
     ilev    = 70
 
     minval  = -12.0
