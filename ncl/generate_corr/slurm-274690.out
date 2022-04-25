@@ -1,0 +1,2032 @@
+run_process_exp01.csh
+[1] 320558
+run_process_exp02.csh
+[2] 320561
+run_process_exp03.csh
+[3] 320564
+run_process_exp04.csh
+[4] 320567
+run_process_exp05.csh
+[5] 320570
+run_process_exp06.csh
+[6] 320574
+run_process_exp07.csh
+[7] 320580
+run_process_exp08.csh
+[8] 320587
+run_process_exp09.csh
+[9] 320593
+run_process_exp10.csh
+[10] 320600
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]    Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac_3regions.ncl
+[6]    Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[7]  + Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[9]    Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[5]    Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[9]  + Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[9]  + Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac.ncl
+[7]  + Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[5]    Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[5]    Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac_3regions.ncl
+[9]    Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[5]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac_3regions.ncl
+[9]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[9]  + Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[5]    Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[5]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[9]  - Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[9]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[9]  - Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[3]    Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[7]  + Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac.ncl
+[7]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[5]    Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac_3regions.ncl
+[9]    Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac_3regions.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac.ncl
+[3]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[9]    Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[9]  - Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac.ncl
+[7]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[7]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[9]  + Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[5]    Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]    Done                          ncl make_sac_3regions.ncl
+[7]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac_3regions.ncl
+[9]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[1]    Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]    Done                          ncl make_sac_3regions.ncl
+[5]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]    Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[2]    Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[9]  - Done                          ncl make_sac.ncl
+[8]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[7]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac.ncl
+[6]  + Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac_3regions.ncl
+[4]    Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[5]  - Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[7]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  - Done                          ncl make_sac.ncl
+[1]  - Done                          ncl make_sac.ncl
+[6]  - Done                          ncl make_sac_3regions.ncl
+[5]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[1]  - Done                          ncl make_sac_3regions.ncl
+[9]  + Done                          ncl make_sac.ncl
+[8]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac.ncl
+[4]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]    Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[7]  - Done                          ncl make_sac_3regions.ncl
+[6]  + Done                          ncl make_sac.ncl
+[5]  + Done                          ncl make_sac_3regions.ncl
+[4]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[4]  + Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  + Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  + Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[10] - Done                          csh run_process_exp10.csh > csh`printf "%02d" $ii`.log
+[9]  + Done                          csh run_process_exp09.csh > csh`printf "%02d" $ii`.log
+[8]  + Done                          csh run_process_exp08.csh > csh`printf "%02d" $ii`.log
+[5]    Done                          csh run_process_exp05.csh > csh`printf "%02d" $ii`.log
+[4]    Done                          csh run_process_exp04.csh > csh`printf "%02d" $ii`.log
+[3]    Done                          csh run_process_exp03.csh > csh`printf "%02d" $ii`.log
+[2]    Done                          csh run_process_exp02.csh > csh`printf "%02d" $ii`.log
+[1]    Done                          csh run_process_exp01.csh > csh`printf "%02d" $ii`.log
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[3]  - Done                          ncl make_sac_3regions.ncl
+[2]  + Done                          ncl make_sac.ncl
+[1]  + Done                          ncl make_sac.ncl
+[2]  - Done                          ncl make_sac_3regions.ncl
+[1]  + Done                          ncl make_sac.ncl
+[7]  + Done                          csh run_process_exp07.csh > csh`printf "%02d" $ii`.log
+[6]  + Done                          csh run_process_exp06.csh > csh`printf "%02d" $ii`.log

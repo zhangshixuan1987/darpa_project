@@ -1,0 +1,41 @@
+test01.csh
+[1] 318831
+test02.csh
+[2] 318834
+test03.csh
+[3] 318837
+test04.csh
+[4] 318840
+test05.csh
+[5] 318844
+test01.csh: No such file or directory.
+[1]    Exit 1                        csh test01.csh > csh`printf "%02d" $ii`.log
+test06.csh
+test02.csh: No such file or directory.
+[6] 318848
+test03.csh: No such file or directory.
+[2]    Exit 1                        csh test02.csh > csh`printf "%02d" $ii`.log
+test07.csh
+[7] 318852
+[3]    Exit 1                        csh test03.csh > csh`printf "%02d" $ii`.log
+test08.csh
+[8] 318856
+test04.csh: No such file or directory.
+[4]    Exit 1                        csh test04.csh > csh`printf "%02d" $ii`.log
+test09.csh
+[9] 318860
+test05.csh: No such file or directory.
+[5]    Exit 1                        csh test05.csh > csh`printf "%02d" $ii`.log
+test10.csh
+[1] 318864
+test06.csh: No such file or directory.
+test07.csh: No such file or directory.
+[6]    Exit 1                        csh test06.csh > csh`printf "%02d" $ii`.log
+test08.csh: No such file or directory.
+test09.csh: No such file or directory.
+test10.csh: No such file or directory.
+test11.csh: No such file or directory.
+[1]  - Exit 1                        csh test10.csh > csh`printf "%02d" $ii`.log
+[9]  + Exit 1                        csh test09.csh > csh`printf "%02d" $ii`.log
+[8]  + Exit 1                        csh test08.csh > csh`printf "%02d" $ii`.log
+[7]  + Exit 1                        csh test07.csh > csh`printf "%02d" $ii`.log
